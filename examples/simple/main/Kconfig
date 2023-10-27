@@ -1,0 +1,10 @@
+menu "SocketIO"
+
+    config EXAMPLE_SIO_URL
+        string "SocketIO url"
+        default "http://10.0.7.25:8010"
+        help
+            SocketIO url for the example to connect to.
+
+
+endmenu
