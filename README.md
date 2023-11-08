@@ -43,13 +43,12 @@ Configure WiFi SSID/PASSWORD and SocketIO URL in menuconfig or by manually editi
 
 # Building under Linux
 * install PlatformIO
-* enter examples/basic directory
+* enter examples/simple directory
 * type in terminal:
   platformio run
   platformio upload
 
 You can also use IDE to build this project on Linux/Windows/Mac. My fvorite ones:
 * [Code](https://code.visualstudio.com/) 
-* [Atom](https://atom.io/)
 
 Enjoy :-)
